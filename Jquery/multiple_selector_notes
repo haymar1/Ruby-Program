@@ -1,8 +1,0 @@
-Multiple id selector
-$("#id1,#id2,#id3").
-
-Multiple classs selector
-$("#class1,class2,class3").
-
-Multiple element selector
-$(h1,h2, p, body,header).
